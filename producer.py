@@ -7,7 +7,7 @@ fake = Faker()
 
 env = {
     "kafka_server": ['localhost:9092'],
-    "topic": "testingTopic",
+    "topic": "duchuytesting",
 }
 
 

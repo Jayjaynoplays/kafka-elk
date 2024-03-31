@@ -3,7 +3,7 @@ from kafka import KafkaConsumer
 
 env = {
     "kafka_server": ['localhost:9092'],
-    "topic": "testingTopic",
+    "topic": "duchuytesting",
 }
 
 consumer = KafkaConsumer(
